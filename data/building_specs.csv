@@ -1,0 +1,11 @@
+building_id,location,building_size_m2,occupants,year_built,building_type,insulation_rating,solar_panels,heating_type
+B001,CityB,3080.1516875237,37,2012,Residential,3,True,Gas
+B002,CityD,2237.461870103484,165,2019,Commercial,3,False,Gas
+B003,CityE,1465.6510386876835,50,1981,Residential,3,False,Solar
+B004,CityA,3450.7518592133397,97,2005,Commercial,2,False,Electric
+B005,CityC,1768.3464864802997,62,1990,Residential,4,False,Gas
+B006,CityE,4854.112481841114,168,1989,Residential,1,False,Solar
+B007,CityA,3792.4148988483807,40,1997,Residential,3,False,Solar
+B008,CityE,1573.6858690565307,187,1992,Industrial,1,True,Gas
+B009,CityA,2904.4736308875354,88,2004,Commercial,1,True,Solar
+B010,CityA,740.68383536316,193,2020,Industrial,4,True,Solar
