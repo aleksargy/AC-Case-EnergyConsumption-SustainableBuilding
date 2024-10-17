@@ -146,7 +146,7 @@ adjusted_energy_usage_df = merged_data[
         "location",
     ]
 ]
-adjusted_energy_usage_df.to_csv("data/adjusted_energy_usage.csv", index=False)
+adjusted_energy_usage_df.to_csv("data/energy_usage.csv", index=False)
 building_specs_df.to_csv("data/building_specs.csv", index=False) 
 weather_df.to_csv("data/weather.csv", index=False) 
 
