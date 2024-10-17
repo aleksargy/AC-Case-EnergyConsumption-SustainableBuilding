@@ -134,7 +134,6 @@ merged_data["water_usage_l"] += (
     merged_data["humidity_percent"] * 2
 )
 
-# Save to CSV files
 adjusted_energy_usage_df = merged_data[
     [
         "building_id",
